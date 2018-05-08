@@ -1,30 +1,23 @@
 # shogiweb
 
-> A Vue.js project
+> VueJS로 구현하는 쇼기 온라인 입니다.
 
-## Build Setup
+# 업데이트 목록
 
-``` bash
-# install dependencies
-npm install
+##web-finish
+승급과 같은 세부 요소 완벽 구현
 
-# serve with hot reload at localhost:8080
-npm run dev
+##pieceMove
+말 움직이는 것을 구현
 
-# build for production with minification
-npm run build
+##Graphic upgrade, click
+클릭과 말 배경을 만
 
-# build for production and view the bundle analyzer report
-npm run build --report
+## second commit
+쇼기 판 기본을 정
 
-# run unit tests
-npm run unit
+## first commit
+첫 커밋
 
-# run e2e tests
-npm run e2e
 
-# run all tests
-npm test
-```
 
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
